@@ -8,7 +8,7 @@ https://stream-02.nyc.dailymotion.com/dm/3/x18w5up/live-2.m3u8
 
 
 #EXTINF:-1, AMERICATV
-https://s2.limpi.tv/live/41206.m3u8?token=E1pLL_yaKlXzUP1x18jpGg&expires2=U2FsdGVkX1%2F2I5r%2B7OM6pnenZioWw6GO1zfH9%2BsNNUY%3D&expires=1541086235&ip=181.65.125.157
+https://s4.limpi.tv/live/41206.m3u8?token=8dpSY1hzRtIVbKwSto0lvA&expires2=U2FsdGVkX1%2B3NmrEBJcogkN2ENp5HAJsXolHVL%2FzXzw%3D&expires=1541086441&ip=181.65.125.157
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jaimeambrosio/iptv/master/imgs/atv.png" group-title="PERUANO", ATV1
 https://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/playlist.m3u8
