@@ -1,0 +1,11 @@
+#EXTM3U
+
+#EXTINF:-1, AMERICAtv
+https://ooyalasecurehd3-f.akamaihd.net/i/americatvAksec_d@500580/index_1474_av-p.m3u8?sd=10&rebase=on&id=AgC1QX2dyDyIDorC2lshlgCZ4IpGHvnFHuM+slBYhAPKkb4w7g+g2fOztIMRNSibZtiuDQOv5fEAsA%3d%3d&hdntl=exp=1541149706~acl=%2fi%2famericatvAksec_d%40500580%2f*~data=hdntl~hmac=71afce6b363233517d61239cc1d46cacae8f34bf9b073d893b78bd7739b6faad
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jaimeambrosio/iptv/master/imgs/atv.png" group-title="PERUANO", ATV1
+https://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jaimeambrosio/iptv/master/imgs/atv.png" group-title="PERUANO", ATV2
+https://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/chunklist_b1056768.m3u8
+
