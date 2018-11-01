@@ -3,7 +3,7 @@
 #EXTINF:-1, AMERICATV
 https://raw.githubusercontent.com/jaimeambrosio/iptv/master/imgs/playlist.m3u
 
-#EXTINF:-1, PANA
+#EXTINF:-1, Panamericana
 https://stream-02.nyc.dailymotion.com/dm/3/x18w5up/live-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jaimeambrosio/iptv/master/imgs/atv.png" group-title="PERUANO", ATV1
