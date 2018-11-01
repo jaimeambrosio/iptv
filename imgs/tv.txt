@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1, AMERICAtv
-https://ooyalasecurehd3-f.akamaihd.net/i/americatvAksec_d@500580/index_1474_av-p.m3u8?sd=10&rebase=on&id=AgC1QX2dyDyIDgDE2lv2NvzcAcM4ysKP4VOTwosPUtzJENDvFYF7fmRwNwrVpfV1jQjfvXmNYCDkVA%3d%3d&hdntl=exp=1541150080~acl=%2fi%2famericatvAksec_d%40500580%2f*~data=hdntl~hmac=9ef2271d368b13930e453c0d8be69e60f9a225c25922afa562c818b9ffe80411
+https://2d04.janjuaplayer.com:8088/adfree/ametv2/playlist.m3u8?id=80987&wowzasessionid=3629480575&pk=60cd5d35657d470d3b69c790d0839252b82ebd89798d6ed277368badee8576f7
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jaimeambrosio/iptv/master/imgs/atv.png" group-title="PERUANO", ATV1
 https://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/playlist.m3u8
