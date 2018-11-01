@@ -1,18 +1,19 @@
 #EXTM3U
 
-#EXTINF:-1, LATINA
-https://live-normal-movistar-hls.secure.footprint.net/hls-live/ciaremux-live/_definst_/live/stream4.m3u8
+#EXTINF:-1, AMERICATV
+https://raw.githubusercontent.com/jaimeambrosio/iptv/master/imgs/playlist.m3u
 
 #EXTINF:-1, PANA
 https://stream-02.nyc.dailymotion.com/dm/3/x18w5up/live-2.m3u8
 
-
-#EXTINF:-1, AMERICATV
-https://raw.githubusercontent.com/jaimeambrosio/iptv/master/imgs/playlist.m3u
+https://cdnh15.iblups.com/hls/RMuwrdk7M9.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jaimeambrosio/iptv/master/imgs/atv.png" group-title="PERUANO", ATV1
 https://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jaimeambrosio/iptv/master/imgs/atv.png" group-title="PERUANO", ATV2
 https://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/chunklist_b1056768.m3u8
+
+#EXTINF:-01, tvg-logo="http://i.imgur.com/lx045za.jpg?tvninjaxd" group-title="PERUANO",NEX TV
+http://d28d7tc1ojykcy.cloudfront.net/lared/lared.smil/.m3u8?tvninjaxd?Peru.m3u8
 
